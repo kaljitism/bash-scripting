@@ -4,6 +4,12 @@ Src Files for Bash Scripting
 
 ## basics - 
 
-[] Vars
-[] conditionals
-[] iteration
+ 
+ 
+[]- Vars
+
+
+conditionals
+
+
+iteration
