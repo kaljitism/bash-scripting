@@ -6,10 +6,8 @@ Src Files for Bash Scripting
 
  
  
-[]- Vars
+- [ ] Vars
 
+- [ ] conditionals
 
-conditionals
-
-
-iteration
+- [ ] iteration
